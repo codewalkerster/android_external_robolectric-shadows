@@ -215,6 +215,7 @@ java_host_for_device {
       "//packages/apps/ThemePicker/tests/robotests:__pkg__",
       "//packages/apps/WallpaperPicker2/tests/robotests:__pkg__",
       "//packages/apps/TvSettings/Settings/tests/robotests:__pkg__",
+      "//packages/apps/OdroidSettings/Settings/tests/robotests:__pkg__",
       "//packages/apps/KeyChain/robotests:__pkg__",
       "//packages/apps/CertInstaller/robotests:__pkg__",
       //tm-dev additions
